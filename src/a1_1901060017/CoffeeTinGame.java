@@ -12,7 +12,7 @@ import utils.TextIO;
 
 /**
  *
- * @author Khánh Huyền
+ * @author Quang Huy
  */
 public class CoffeeTinGame {
 
